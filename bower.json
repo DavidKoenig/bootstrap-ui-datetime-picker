@@ -1,11 +1,11 @@
 {
   "name": "bootstrap-ui-datetime-picker-focus-fork",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "homepage": "https://github.com/DavidKoenig/bootstrap-ui-datetime-picker.git",
   "authors": [
     "Gillardo <darren.gillard81@gmail.com>, David"
   ],
-  "description": "AngularJs directive to use a date and/or time picker as a dropdown from an input without focus when clicking somewhere else.",
+  "description": "AngularJs directive to use a date and/or time picker as a dropdown from an input.",
   "license": "MIT",
   "main": [
     "dist/datetime-picker.js"

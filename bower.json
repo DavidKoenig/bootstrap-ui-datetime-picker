@@ -5,7 +5,7 @@
   "authors": [
     "Gillardo <darren.gillard81@gmail.com>, David"
   ],
-  "description": "AngularJs directive to use a date and/or time picker as a dropdown from an input",
+  "description": "AngularJs directive to use a date and/or time picker as a dropdown from an input without focus when clicking somewhere else then close button.",
   "license": "MIT",
   "main": [
     "dist/datetime-picker.js"
